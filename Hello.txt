@@ -1,1 +1,1 @@
-Welocme to DevOps GIT class
+Welocme to DevOps GIT class --- version 2
